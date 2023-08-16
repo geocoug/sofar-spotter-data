@@ -1,0 +1,6 @@
+.venv/
+*logs*
+*cache*
+.env
+*.json
+data/
